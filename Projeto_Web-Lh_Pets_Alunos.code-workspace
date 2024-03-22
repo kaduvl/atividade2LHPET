@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "wwwroot"
+		},
+		{
+			"path": "../../../Downloads/CodBack_MVC_Arquivos_da_Atividade_Aluno"
+		}
+	],
+	"settings": {}
+}
